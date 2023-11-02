@@ -22,18 +22,18 @@ To install the Personalized Content Recommendation Engine, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/tarlhahn/personalized-content-recommendation-engine.git
+   git clone https://github.com/tarlhahn/Personalized-Content-Recommendation-Engine.git
    ```
 
 2. Install the front end:
    ```sh
-   cd personalized-content-recommendation-engine/backend
+   cd Personalized-Content-Recommendation-Engine/backend
    npm install
    ```
 
 3. Install the front end:
    ```sh
-   cd personalized-content-recommendation-engine/frontend
+   cd Personalized-Content-Recommendation-Engine/frontend
    npm install
    ```
 
@@ -43,13 +43,13 @@ To start the recommendation engine:
 
 1. Run the backend application:
    ```sh
-   cd personalized-content-recommendation-engine/backend
+   cd Personalized-Content-Recommendation-Engine/backend
    npm start
    ```
 
 2. Run the dashboard application:
    ```sh
-   cd personalized-content-recommendation-engine/frontend
+   cd Personalized-Content-Recommendation-Engine/frontend
    npm serve run
    ```
 
